@@ -1,0 +1,4 @@
+
+(unity-control-center:6863): Gtk-CRITICAL **: gtk_notebook_set_current_page: assertion 'GTK_IS_NOTEBOOK (notebook)' failed
+
+(indicator-keyboard-service:5656): dconf-WARNING **: failed to commit changes to dconf: Timeout was reached

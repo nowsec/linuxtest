@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Software Network Analyzer Review, WireShark.com</title>
+<meta name="description" content="Online reviews on the top 10 software network anlyazers and hardware tools. Download a free full version for Windows, Linux and Mac here.">
+<meta name="keywords" content="network monitoring,data anlayzer, reviews, free downloads">
+<link  rel="canonical" href="http://wireshark.com/index.html">
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<script type="text/javascript">
+  <!--
+  if (screen.width <= 800) {
+    window.location = "http://wireshark.com/m";
+  }
+  //-->
+</script>
+
+</head>
+
+<body>
+
+<div class="header">
+	&nbsp;
+</div>
+
+    <div class="container">
+    <div class="body">
+		<div style="bodyAd">
+			<div style="clear:both;margin:0 auto 0 auto;text-align:center;width:728px;height:90px;">
+<script type="text/javascript"><!--
+			google_ad_client = "pub-1699301305124816";
+			/* 728x90, created 2/23/09 */
+			google_ad_slot = "2502319451";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			//-->
+			</script>
+			<script type="text/javascript"
+			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script></div>
+            <div class="bodyL"><br>
+                    <!-- Posicione esta tag onde vocÃª deseja que o widget apareÃ§a. -->
+                    <div class="g-follow" data-annotation="bubble" data-height=
+                    "20" data-href=
+                    "http://plus.google.com/b/105545381985127819456" data-rel=
+                    "publisher"></div>
+                    <!-- Posicione esta tag depois da Ãºltima tag do widget. -->
+                    <script type="text/javascript">
+                    window.___gcfg = {lang: 'en-US'};
+
+                    (function() {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                    })();
+                </script>
+            </div><br>
+
+<div class="menufloat">
+				<a href="http://wireshark.com/" title="Home" style="color:#CCCCCC;">Home</a>&nbsp;|&nbsp;
+				<a href="http://wireshark.com/wireshark-reviews-downloads.html" title="Wireshark Review" style="color:#CCCCCC;">Wireshark Review</a>&nbsp;|&nbsp;
+				<a href="http://wireshark.com/kismet-reviews-downloads.html" title="Service reviews" style="color:#CCCCCC;">Kismet Review</a>&nbsp;|&nbsp;
+				<a href="http://wireshark.com/wifi-terminology.html" title="wifi terminology" style="color:#CCCCCC;">Wifi Terminology</a>
+            </div>
+		</div>
+
+		<div class="bodyL">
+			<p><br><br>
+                <script type="text/javascript">
+				<!--
+				google_ad_client = "pub-1699301305124816";
+				/* 120x240, created 5/20/08 */
+				google_ad_slot = "2452231322";
+				google_ad_width = 120;
+				google_ad_height = 600;
+				//-->
+				</script>
+				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+			</p><br>
+		</div>
+
+		<div class="bodyR">
+			<div style="height:8px;clear:both;">&nbsp;</div><br>
+				<h1 style="font-size:14px;font-weight:bold;color:#7F888F;text-align:justify;">What is a network protocol analyzer?</h1>
+                A network protocol analyzer is a combination of programming and hardware and in certain cases, a separate hardware device that can be installed in a network or computer in order to improve its security level against viruses and other types of malicious activities. 
+
+                 <h2 style="font-size:14px;font-weight:bold;color:#7F888F;text-align:justify;">What types of Wifi Network Analyzers are there?</h2>
+              Wifi network analyzers come in hardware, as well as software versions. Hardware is used for packet sniffing typically works just like a router, where as software based wifi network analyzers run on the devices being monitored. Software wifi packet sniffers are most commonly used for either the invasion of privacy or others for monitoring server traffic, where as hardware wifi packet sniffers are most commonly used for diagnostics and monitoring for performance and security related purposes.
+
+ <div style="height:8px;clear:both;">&nbsp;</div>
+				<h3 style="font-size:14px;font-weight:bold;color:#7F888F;text-align:justify;">Wifi packet sniffing legalities</h3>
+                Packet sniffing, in the wrong context, is illegal and governed by multiple laws. For example, the Wiretap Act states, "To intercept and monitor [communications] placed over their facilities in order to combat fraud and theft of service."
+
+			    We recommend an in-depth research for beginners that want to start learning about packet sniffing. Take the needed time to discover tools that we consider to be the foundation of network security utilities. However, when a <a href="http://wireshark.com/wireshark-reviews-downloads.html">packet sniffer</a>. is used for the right purpose it proves itself to be a perfect resource.
+
+
+               <div class="bodyR">
+			<br><br></div>
+			<div class="adL">
+				<center><img src="http://wireshark.com/img/network-analysis.png" alt="packet sniffer reviews" width="248" height="250">
+			</center></div>
+			
+
+				<h3 style="font-size:14px;font-weight:bold;color:#7F888F;text-align:justify;">Choosing and implementing a network analyzer</h3>
+                When used as a corporate security tool, it's important to keep in mind that a NPA needs to be distributed since this is going to make it possible for it to cover all of the network's areas. On top of that, the NPA should also be capable of capturing and decoding all protocols from every type of media, including 802.11, WAN, Ethernet, etc) on which the corporate data flows.
+
+                It's essential that the NPA also supports flexible filtering thatâ€™s capable of allowing triggered notifications. After all, NPA will only be capable of capturing and decoding data it can actually understand. When used in a switched network environment, it will only detect the traffic thatâ€™s local to the switch.
+
+<p><div style="float: right;margin-right: -10px">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- WS - index.html 728 * 90 _bottom -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1699301305124816"
+     data-ad-slot="8799554849"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></p>
+
+          <div style="height:8px;clear:both;">&nbsp;</div>
+				<h4 style="font-size:14px;font-weight:bold;color:#7F888F;text-align:justify;">Software Network Analyzer Reviews</h4>
+                It's important to keep in mind that a NPA will never replace antivirus software, anti malware programs and firewalls. Its purpose and role is that of improving network security by alerting the admin when an infection has occurred so that he can take the necessary steps to remove it as soon as possible.<br>
+
+                <br>Here at WireShark.com, we offer reviews on the top software network analysis tools and services. Before purchasing or downloading any network analyzer or monitoring tool, be sure to read our Wifi Network Analysis products and services reviews web pages. We also offer a small  Wifi Glossary, which shows you a list of Wifi specific terms and definitions.
+				</div><br>
+        </div>
+		</div>
+	    </div>
+
+<div class="footer">
+	&nbsp;
+</div>
+
+<div style="clear:both;margin:8px auto 8px auto;text-align:center;">
+	Copyright 2016 WireShark.Com. All rights reserved.<br>
+	All information on this website is free of charge and is given without warranty.<br>
+	WireShark.Com is in no way affiliated with Ethereal Wireshark.
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4524629-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type =
+'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>¶7ú‘j      W¤ÂºW¤Â¼<¿ú6W¤ÙÜ       :http://wireshark.com/ necko:classified 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Fri, 05 Aug 2016 16:45:47 GMT
+Server: Apache
+Last-Modified: Fri, 05 Aug 2016 00:18:45 GMT
+Accept-Ranges: bytes
+Content-Length: 9704
+Content-Type: text/html
+ charset windows-1252 uncompressed-len 0 predictor::resource-count 16 predictor::http://wireshark.com/styles.css 1,1,1470415546,0 predictor::http://pagead2.googlesyndication.com/pagead/show_ads.js 1,1,1470415546,0 predictor::http://wireshark.com/img/network-analysis.png 1,1,1470415546,0 predictor::http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 1,1,1470415546,0 predictor::http://wireshark.com/img/bg.png 1,1,1470415546,0 predictor::https://pagead2.googlesyndication.com/pub-config/r20160601/ca-pub-1699301305124816.js 1,1,1470415546,0 predictor::http://wireshark.com/img/header.png 1,1,1470415546,0 predictor::http://wireshark.com/img/bodybg.png 1,1,1470415546,0 predictor::http://pagead2.googlesyndication.com/pagead/js/r20160802/r20160727/show_ads_impl.js 1,1,1470415546,0 predictor::https://apis.google.com/js/platform.js 1,1,1470415546,0 predictor::http://www.google-analytics.com/ga.js 1,1,1470415546,0 predictor::http://wireshark.com/img/footer.png 1,1,1470415546,0 predictor::https://pagead2.googlesyndication.com/pagead/osd.js 1,1,1470415546,0 predictor::https://pagead2.googlesyndication.com/pagead/js/r20160802/r20160727/creativetoolset/expansion_publ.js 1,1,1470415546,0 predictor::https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.ko.-FxOXMlpWqU.O/m=follow/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCN6G8kIb_kpYfeP8RxT0vlo_uUR_Q/cb=gapi.loaded_0 1,1,1470415546,0 predictor::https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.ko.-FxOXMlpWqU.O/m=auth/exm=follow/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCN6G8kIb_kpYfeP8RxT0vlo_uUR_Q/cb=gapi.loaded_1 1,1,1470415546,0   %è
